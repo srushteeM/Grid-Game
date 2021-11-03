@@ -19,6 +19,7 @@ nav{
 
 nav ul{
     list-style-type: none;
+    background-color: black;
 }
 
 .gameContainer{ 
@@ -46,7 +47,7 @@ nav ul{
 }
 
 .box:hover{
-    background-color: rgb(242, 234, 250);
+    background-color: rgb(243, 238, 248);
 }
 
 .info {
